@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weblink</string>
+    <string name="insert_weblink_title" />
+    <string name="weblink" />
+</resources>
